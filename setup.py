@@ -19,7 +19,7 @@ setup(
     author_email='',
     url='https://github.com/patjenk/nose-timer',
     install_requires=[
-        'nose==1.0.0',
+        'nose',
     ],
     setup_requires=[],
     test_suite='nose.collector',
